@@ -1,0 +1,7 @@
+{
+  "id": "string",
+  "pictureId": "string",
+  "name": "string",
+  "rating": "string",
+  "city": "string"
+}

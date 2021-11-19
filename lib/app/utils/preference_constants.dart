@@ -1,0 +1,1 @@
+const keyReminder = "key_reminder";
